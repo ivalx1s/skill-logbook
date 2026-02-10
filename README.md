@@ -1,4 +1,4 @@
-# Logbook (Codex Skill)
+# Logbook (Agentic Skill)
 
 Keeps a persistent `LOGBOOK.md` in your project root as high-signal institutional memory (findings, decisions, root causes, regressions).
 
